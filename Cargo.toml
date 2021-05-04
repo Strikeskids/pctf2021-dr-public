@@ -1,0 +1,12 @@
+[package]
+name = "dr"
+version = "0.1.0"
+authors = ["strikeskids <github@strikeskids.com>"]
+edition = "2018"
+default-run = "dr"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+"delegate" = "0.5.1"
+"sha3" = "0.9.1"
